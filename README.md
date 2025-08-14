@@ -1,24 +1,15 @@
-# 📂 Raginee Jha – Product Thinking & Case Study Portfolio
+# 📂 Raginee Jha – Product Management Case Studies Portfolio
 
-Welcome to my **Product Management & Product Thinking** case study portfolio.  
-Here, I share my work on **real-world product challenges**, showcasing my skills in **problem framing, user research, opportunity sizing, AI integration, and roadmap planning**.
+Welcome to my **Product Management** case study portfolio.  
+Here, I share my work on **real-world product challenges**, showcasing my skills in **product thinking,problem framing, user research, opportunity sizing, AI integration, and roadmap planning, Pricing & MonetiGrowth Roadmap**.
 
 ---
 
 ## 📜 Case Studies
 
-### 1. [Solving What Matters: A Product Thinking Case Study](./Raginee%20Jha%20Module%201%20Case%20Study.pdf)
-**Summary:**  
-A deep dive into improving **WhatsApp group chat efficiency** for users overwhelmed by high message volume.  
-- **Problem:** Users miss important updates buried in hundreds of group messages.  
-- **Solution:** Introduced an **AI-powered Highlights & Smart Summary Notification** system.  
-- **Highlights:**
-  - User research with 3 personas (Busy Parent, Professional, Student)
-  - Opportunity sizing using TAM/SAM/SOM
-  - Feature prioritization with **RICE framework**
-  - MVP definition & AI roadmap integration
+### 1. [Solving What Matters: A Product Thinking Case Study
+ [Case Study](./Raginee%20Jha%20Module%201%20Case%20Study.pdf)
 
----
 
 ## 📈 Skills Demonstrated
 - Product Thinking & Strategy  
