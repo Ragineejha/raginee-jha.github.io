@@ -10,7 +10,7 @@ Here, I share my work on **real-world product challenges**, showcasing my skills
 ### 1. HireMate - A product Launch Strategy
 [Find PDF here](./HireMate_Module3%20Project%20(1).pdf)
 
-### 1. FitStart - Product Growth Roadmap
+### 2. FitStart - Product Growth Roadmap
 [Find PDF here](./GrowthRoadMap_FitStart.pdf)
 **Summary:**  
 A growth-focused roadmap for **FitStart**, a fitness app struggling with **retention and revenue** despite strong acquisition.  
@@ -23,7 +23,7 @@ A growth-focused roadmap for **FitStart**, a fitness app struggling with **reten
   - Prioritized features with **RICE scoring**
   - Sprint planning for a small cross-functional team
 
-### 2. SaveEasy – Helping First-Time Earners Save 
+### 3. SaveEasy – Helping First-Time Earners Save 
 [Find PDF here](./SaveEasy%20(1).pdf)
 **Summary:**  
 A financial app concept for **first-time earners** to simplify budgeting, saving, and financial planning.  
@@ -36,7 +36,7 @@ A financial app concept for **first-time earners** to simplify budgeting, saving
   - Built **product roadmap** (Now / Next / Later)
   - Usability testing plan with success criteria
 
-### 3. Reel Rocket - Empowers creators to make instant engaging reels without any hassle.
+### 4. Reel Rocket - Empowers creators to make instant engaging reels without any hassle.
 [Find PRD here](./PRD_ReelRocket.pdf)
 **Summary:**  
 - Problem: Small business owners lack time, expertise and tools to create engaging,
@@ -47,7 +47,7 @@ trend-aligned reels.
 - consistency and increase organic reach.
 - Investment: Requires moderate investment in AI/ML resources, video processing.
 
-### 4. FLOP-TO-PHOENIX PRODUCT CHALLENGE - Yahoo Messenger
+### 5. FLOP-TO-PHOENIX PRODUCT CHALLENGE - Yahoo Messenger
 [Find PDF here](./FlopToPhoenix.pdf)
 In this challenge, I explored strategic pivots that might have kept Yahoo Messenger alive.
 
