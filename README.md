@@ -35,8 +35,18 @@ A financial app concept for **first-time earners** to simplify budgeting, saving
   - Built **product roadmap** (Now / Next / Later)
   - Usability testing plan with success criteria
 
+### 3. Reel Rocket - Empowers creators to make instant engaging reels without any hassle.
+[Find PRD here](./PRD_ReelRocket.pdf)
+**Summary:**  
+- Problem: Small business owners lack time, expertise and tools to create engaging,
+trend-aligned reels.
+- Solution: ReelRocket automates script creation, audio & template suggestion, reel
+- generation and smart publishing.
+- Impact: ReelRocket empowers users to boost their engagement rates, improve content
+- consistency and increase organic reach.
+- Investment: Requires moderate investment in AI/ML resources, video processing.
 
-### 3. [Solving What Matters: A Product Thinking Case Study
+### 4. [Solving What Matters: A Product Thinking Case Study
  [Case Study](./Raginee%20Jha%20Module%201%20Case%20Study.pdf)
 
 ## 📈 Skills Demonstrated
