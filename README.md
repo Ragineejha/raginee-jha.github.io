@@ -7,7 +7,10 @@ Here, I share my work on **real-world product challenges**, showcasing my skills
 
 ## 📜 Case Studies
 
-### 1. FitStart Growth Roadmap
+### 1. HireMate - A product Launch Strategy
+[Find PDF here](./HireMate_Module3%20Project%20(1).pdf)
+
+### 1. FitStart - Product Growth Roadmap
 [Find PDF here](./GrowthRoadMap_FitStart.pdf)
 **Summary:**  
 A growth-focused roadmap for **FitStart**, a fitness app struggling with **retention and revenue** despite strong acquisition.  
@@ -19,8 +22,6 @@ A growth-focused roadmap for **FitStart**, a fitness app struggling with **reten
   - Designed a **growth loop** using group fitness challenges & leaderboards
   - Prioritized features with **RICE scoring**
   - Sprint planning for a small cross-functional team
-
----
 
 ### 2. SaveEasy – Helping First-Time Earners Save 
 [Find PDF here](./SaveEasy%20(1).pdf)
@@ -46,7 +47,11 @@ trend-aligned reels.
 - consistency and increase organic reach.
 - Investment: Requires moderate investment in AI/ML resources, video processing.
 
-### 4. [Solving What Matters: A Product Thinking Case Study
+### 4. FLOP-TO-PHOENIX PRODUCT CHALLENGE - Yahoo Messenger
+[Find PDF here](./FlopToPhoenix.pdf)
+In this challenge, I explored strategic pivots that might have kept Yahoo Messenger alive.
+
+### 6. Solving What Matters: A Product Thinking Case Study
  [Case Study](./Raginee%20Jha%20Module%201%20Case%20Study.pdf)
 
 ## 📈 Skills Demonstrated
