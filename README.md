@@ -1,7 +1,7 @@
 # 📂 Raginee Jha – Product Management Case Studies Portfolio
 
 Welcome to my **Product Management** case study portfolio.  
-Here, I share my work on **real-world product challenges**, showcasing my skills in **product thinking,problem framing, user research, opportunity sizing, AI integration, and roadmap planning, Pricing & MonetiGrowth Roadmap**.
+Here, I share my work on **real-world product challenges**, showcasing my skills in **product thinking,problem framing, user research, opportunity sizing, AI integration, and roadmap planning, Pricing & Monetization and Growth Roadmap**.
 
 ---
 
