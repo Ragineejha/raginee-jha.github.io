@@ -7,9 +7,37 @@ Here, I share my work on **real-world product challenges**, showcasing my skills
 
 ## 📜 Case Studies
 
-### 1. [Solving What Matters: A Product Thinking Case Study
- [Case Study](./Raginee%20Jha%20Module%201%20Case%20Study.pdf)
+### 1. FitStart Growth Roadmap
+[Find PDF here](./GrowthRoadMap_FitStart.pdf)
+**Summary:**  
+A growth-focused roadmap for **FitStart**, a fitness app struggling with **retention and revenue** despite strong acquisition.  
+- **Problem:** Only 30% of users return after 3 days; low premium subscription conversion.  
+- **Solution:** Introduced referral programs, social challenges, and influencer-led sessions.  
+- **Highlights:**
+  - Applied **AARRR pirate metrics** to diagnose funnel drop-offs
+  - Defined separate **Growth Roadmap vs Core Roadmap**
+  - Designed a **growth loop** using group fitness challenges & leaderboards
+  - Prioritized features with **RICE scoring**
+  - Sprint planning for a small cross-functional team
 
+---
+
+### 2. SaveEasy – Helping First-Time Earners Save 
+[Find PDF here](./SaveEasy%20(1).pdf)
+**Summary:**  
+A financial app concept for **first-time earners** to simplify budgeting, saving, and financial planning.  
+- **Problem:** Young professionals and gig workers struggle with budgeting discipline and find existing tools too complex.  
+- **Solution:** Simple goal-based saving system with behavioral nudges and flexible saving options.  
+- **Highlights:**
+  - Defined **product vision & mission**
+  - Created **2 detailed personas** (Salaried employee & gig worker)
+  - Designed **MVP features** (goal setting, manual contributions, progress tracking)
+  - Built **product roadmap** (Now / Next / Later)
+  - Usability testing plan with success criteria
+
+
+### 3. [Solving What Matters: A Product Thinking Case Study
+ [Case Study](./Raginee%20Jha%20Module%201%20Case%20Study.pdf)
 
 ## 📈 Skills Demonstrated
 - Product Thinking & Strategy  
